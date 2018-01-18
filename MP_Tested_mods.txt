@@ -1,0 +1,29 @@
+//***********************************************************
+// Stellaris mod list for multiplayer games
+// ******** TESTED AND CONFIRMED FOR USE of v2.0
+//***********************************************************
+
+Beautiful Universe v2.0
+CityScapes (1.9)
+Crystallis Ship Modules Expansion
+Dark UI*
+Diverse Rooms
+Expanded Colours [144 Colours]
+Extended Vanilla Clothes
+Flexible Core Planet Cap & Resettlement Cost
+Guilli's Planet Modifiers
+Immersive Galaxy - Planet Varity, Base
+Immersive Galaxy - Planet Variety, Inhabitable planets
+Immersive Galaxy - Planet Variety, Uninhabitable Planets
+Planetary Diversity
+Plentiful Traditions
+Tiny Building Constructions*
+Tiny Outliner*
+Tiny Ship Components*
+Tiny Ship Construction*
+Tiny Ship Designs*
+
+*These mods are graphical only and are for personal preference or organization
+
+
+//***********************************************************
