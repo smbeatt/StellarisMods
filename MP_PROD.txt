@@ -1,0 +1,36 @@
+//***********************************************************
+// Stellaris mod list for multiplayer games
+// ******** TESTED AND CONFIRMED FOR USE of v1.9 AND MULTIPLAYER
+//***********************************************************
+
+CP: New Ship Classes - Improved Ship Battles Balance Patch Compatability^
+New Ship Classes & More v7.0^
+Beautiful Universe v2.0
+CityScapes (1.9)
+Dark UI*
+Diverse Rooms
+Expanded Colours [144 Colours]
+Extended Vanilla Clothes
+Flexible Core Planet Cap & Resettlement Cost
+Guilli's Planet Modifiers
+Immersive Galaxy - Planet Variety, Reworked (Planetary Diversity)
+Immersive Galaxy - Planet Varity, Base
+Immersive Galaxy - Planet Variety, Inhabitable planets
+Immersive Galaxy - Planet Variety, Uninhabitable Planets
+Improved Space Battles [Balance]^ &&
+Improved Space Battles [Graphics]^
+KUROGANE ships and stations^
+Planetary Diversity
+Plentiful Traditions
+Tiny Building Constructions*
+Tiny Outliner*
+Tiny Ship Components*
+Tiny Ship Construction*
+Tiny Ship Designs*
+
+*These mods are graphical only and are for personal preference or organization
+
+&& ISB DOES NOT WORK WITH CRYSTALLIS - Make sure Crystallis is deactivated before activing any ISB mods including NSC and ISB compatbility patch=
+
+//***********************************************************
+//***********************************************************
