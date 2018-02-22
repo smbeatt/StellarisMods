@@ -7,10 +7,10 @@ CP: New Ship Classes - Improved Ship Battles Balance Patch Compatability^
 New Ship Classes & More v7.0^
 Beautiful Universe v2.0
 CityScapes (1.9)*
-Dark UI*
+Dark UI* (Outdated due to 2.0 but confirmed working)
 Diverse Rooms*
-Expanded Colours [144 Colours]*
-Extended Vanilla Clothes*
+Expanded Colours [144 Colours]* (Outdated due to 2.0 but confirmed working)
+Extended Vanilla Clothes* (Outdated due to 2.0 but confirmed working)
 Flexible Core Planet Cap & Resettlement Cost
 Guilli's Planet Modifiers
 Immersive Galaxy - Planet Variety, Reworked (Planetary Diversity)
